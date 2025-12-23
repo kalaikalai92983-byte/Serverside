@@ -141,7 +141,8 @@ template.html
 
 
 ## HOMEPAGE:
-<img width="961" height="539" alt="image" src="https://github.com/user-attachments/assets/ea1a95d2-7390-429e-ac1e-8298810f384e" />
+<img width="963" height="542" alt="image" src="https://github.com/user-attachments/assets/12afbd2b-a8bb-46b6-ab94-5a31cfb1f6aa" />
+
 
 
 
